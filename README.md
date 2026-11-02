@@ -6,7 +6,7 @@ Fatto con **Godot 4.7** (renderer Compatibility), pensato prima di tutto per il 
 
 **▶ Giocalo nel browser: [francescoloiusays.github.io/rifugio](https://francescoloiusays.github.io/rifugio/)** (computer o telefono in orizzontale; la partita si salva nel browser).
 
-![La strada della città, dalle mura alle zone infestate](docs/panoramica.jpg)
+![La strada della città, dalle mura fino all'Officina](docs/panoramica.jpg)
 
 | Si parte da zero | La città cresce |
 |---|---|
