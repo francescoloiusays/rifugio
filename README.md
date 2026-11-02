@@ -4,6 +4,8 @@ Un gestionale di sopravvivenza in 3D low-poly, erede spirituale di *No Zombies A
 
 Fatto con **Godot 4.7** (renderer Compatibility), pensato prima di tutto per il **browser** e il telefono in orizzontale.
 
+**▶ Giocalo nel browser: [francescoloiusays.github.io/rifugio](https://francescoloiusays.github.io/rifugio/)** (computer o telefono in orizzontale; la partita si salva nel browser).
+
 ![Il cancello si apre per un nuovo cittadino](docs/cancello.png)
 
 ## Cosa c'è già
@@ -21,7 +23,7 @@ Fatto con **Godot 4.7** (renderer Compatibility), pensato prima di tutto per il 
 1. Installa [Godot 4.7](https://godotengine.org/download).
 2. Apri la cartella `gioco/` (il file `project.godot`) e premi **F5**.
 
-Per la versione browser: Progetto > Esporta > Web (servono i modelli di esportazione di Godot), poi servi la cartella `build/web` con un server qualsiasi, per esempio `python3 -m http.server`.
+La versione browser pubblicata sta nel ramo `gh-pages`. Per rifarla: Progetto > Esporta > Web (servono i modelli di esportazione di Godot), poi servi la cartella `build/web` con un server qualsiasi, per esempio `python3 -m http.server`.
 
 Tutti i dettagli su regole, numeri e tappe di sviluppo sono in [`gioco/LEGGIMI.md`](gioco/LEGGIMI.md).
 
