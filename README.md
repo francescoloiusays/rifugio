@@ -6,7 +6,19 @@ Fatto con **Godot 4.7** (renderer Compatibility), pensato prima di tutto per il 
 
 **▶ Giocalo nel browser: [francescoloiusays.github.io/rifugio](https://francescoloiusays.github.io/rifugio/)** (computer o telefono in orizzontale; la partita si salva nel browser).
 
+![La strada della città, dalle mura alle zone infestate](docs/panoramica.jpg)
+
+| Si parte da zero | La città cresce |
+|---|---|
+| ![La città all'inizio: le mura e i lotti liberi](docs/citta_vuota.jpg) | ![La città con gli edifici, i cittadini al lavoro e le risorse pronte](docs/citta_costruita.jpg) |
+| **Ogni edificio ha 3 livelli** | **Fuori dalle mura** |
+| ![Armeria, Tavola calda, Bar, Case e Officina](docs/citta_centro.jpg) | ![Una squadra affronta un'ondata di zombie in una zona infestata](docs/battaglia.jpg) |
+
+<details><summary>Il cancello si apre per un nuovo cittadino</summary>
+
 ![Il cancello si apre per un nuovo cittadino](docs/cancello.png)
+
+</details>
 
 ## Cosa c'è già
 
