@@ -59,6 +59,8 @@ Prima di lavorare a qualcosa di grosso, apri una Issue per parlarne.
 
 *Rifugio* is a low-poly 3D survival city builder inspired by *No Zombies Allowed* and *Fallout Shelter*, made with Godot 4.7 for the browser. Code and comments are in Italian. Issues and pull requests are welcome, in English too.
 
-## Crediti
+## Licenza e crediti
+
+Codice e contenuti generati sono rilasciati con licenza [MIT](LICENSE): chiunque può usarli e modificarli citando l'autore. Il font DejaVu ha la sua licenza.
 
 Ideato da Francesco. Modelli, suoni e musica sono generati dagli script del progetto; nessun asset dei giochi originali è incluso. Font: DejaVu Sans (vedi `gioco/assets/font/LICENZA_DejaVu.txt`).
